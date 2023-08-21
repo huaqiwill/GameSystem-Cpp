@@ -1,4 +1,3 @@
-/* 【自学去】网站收集 http://www.zixue7.com */
 
 #include <stdio.h>
 #include <stdlib.h>

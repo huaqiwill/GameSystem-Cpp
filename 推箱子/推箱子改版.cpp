@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* 【自学去】网站收集 http://www.zixue7.com */
 
 #define HMAX 22//边界高度的最大值
 #define HMIN 3//边界高度的最小值

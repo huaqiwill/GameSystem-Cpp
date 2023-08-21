@@ -1,6 +1,12 @@
-/* 【自学去】网站收集 http://www.zixue7.com */
+/**
+ * 涂格子游戏（也叫点灯游戏）
+ * 
+ */
+
+
 #include	<graphics.h>
 #include	<conio.h>
+
 #define		MaxNum				14		//单边最大格子数
 #define		G_length			30		//格子边长
 #define		USER_LBUTTONDOWN	101
